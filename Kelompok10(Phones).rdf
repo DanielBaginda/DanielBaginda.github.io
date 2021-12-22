@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:ns0="https://dbpedia.org/property/"
+
+  <rdf:Description rdf:about="https://dbpedia.org/page/Samsung">
+    <ns0:logo>https://upload.wikimedia.org/wikipedia/commons/b/b4/Samsung_wordmark.svg</ns0:logo>
+    <ns0:products>telecommunications equipment</ns0:products>
+    <ns0:name>Samsung Group</ns0:name>
+    <ns0:phones>Yes</ns0:phones>
+    <ns0:people>Yes</ns0:people>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://dbpedia.org/page/Huawei">
+    <ns0:logo>https://upload.wikimedia.org/wikipedia/id/0/04/Huawei_Standard_logo.svg</ns0:logo>
+    <ns0:products>smarthphones</ns0:products>
+    <ns0:name>Huawei Technologies Co., Ltd.</ns0:name>
+    <ns0:phones>Yes</ns0:phones>
+    <ns0:people>Yes</ns0:people>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://dbpedia.org/page/Sony">
+    <ns0:logo>https://upload.wikimedia.org/wikipedia/commons/c/ca/Sony_logo.svg</ns0:logo>
+    <ns0:products>Computer hardware</ns0:products>
+    <ns0:name>Sony Group Corporation</ns0:name>
+    <ns0:phones>Yes</ns0:phones>
+    <ns0:people>Yes</ns0:people>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://dbpedia.org/page/Xiaomi">
+    <ns0:logo>https://upload.wikimedia.org/wikipedia/commons/a/ae/Xiaomi_logo_%282021-%29.svg</ns0:logo>
+    <ns0:products>mobile phones</ns0:products>
+    <ns0:name>Xiaomi</ns0:name>
+    <ns0:phones>Yes</ns0:phones>
+    <ns0:people>Yes</ns0:people>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://dbpedia.org/page/Lenovo">
+    <ns0:logo>https://upload.wikimedia.org/wikipedia/commons/0/01/Lenovo_logo_%282015_onwards%29_2.svg</ns0:logo>
+    <ns0:products>Smartphones</ns0:products>
+    <ns0:name>Lenovo Group Limited</ns0:name>
+    <ns0:phones>Yes</ns0:phones>
+    <ns0:people>Yes</ns0:people>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://dbpedia.org/page/Asus">
+    <ns0:logo>https://upload.wikimedia.org/wikipedia/commons/2/2e/ASUS_Logo.svg</ns0:logo>
+    <ns0:products>Mobile Phones</ns0:products>
+    <ns0:name>ASUSTek Computer Inc.</ns0:name>
+    <ns0:phones>Yes</ns0:phones>
+    <ns0:people>Yes</ns0:people>
+  </rdf:Description>
+
+</rdf:RDF>
